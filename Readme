@@ -1,0 +1,88 @@
+# 🛒 Superstore Sales Analysis – Tableau Dashboard
+
+## 📊 Project Overview
+
+This project showcases an **interactive Tableau dashboard** built using the **Superstore dataset**, which provides insights into sales performance, profit trends, customer behavior, and regional growth opportunities.
+
+The goal is to transform raw data into **actionable business intelligence** using visual analytics.
+
+---
+
+## 🎯 Objectives
+
+* Identify top-performing **categories, sub-categories, and regions**.
+* Analyze **sales and profit trends** over time.
+* Explore **customer segments** and purchasing patterns.
+* Detect **key loss areas** and propose data-driven solutions.
+
+---
+
+## 🧩 Dataset
+
+**Source:** [Tableau Superstore Sample Dataset]
+
+* Rows: ~10,000+
+* Columns: 20+ (Order Date, Region, Category, Profit, Sales, etc.)
+* Type: Retail transactional data (orders, shipments, and customers)
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Tableau Desktop / Tableau Public** – for data visualization
+* **Microsoft Excel / CSV** – for data preprocessing
+* **Data Cleaning:** Removing duplicates, handling nulls, and normalizing fields
+
+---
+
+## 📈 Key Insights
+
+* **Top-performing Region:** [e.g., West]
+* **Highest Profit Category:** [e.g., Office Supplies]
+* **Loss Areas:** [e.g., Discounted Furniture in South region]
+* **Sales Trend:** Steady growth from 2014–2017 with seasonal peaks
+
+*(Replace placeholders with your actual insights!)*
+
+---
+
+## 🗺️ Dashboard Features
+
+✅ Interactive filters by Region, Category, and Year
+✅ Drill-down capabilities for Category → Sub-Category → Product
+✅ KPIs for Total Sales, Profit, Quantity, and Average Discount
+✅ Dynamic tooltips and charts for enhanced storytelling
+
+---
+
+## 📷 Dashboard Preview
+
+*(Add a screenshot or GIF of your Tableau dashboard here)*
+
+```
+![Dashboard Preview](path_to_image/dashboard_preview.png)
+```
+
+---
+
+## 🚀 How to View
+
+You can explore the interactive dashboard on **Tableau Public**:
+🔗 [View on Tableau Public] https://public.tableau.com/app/profile/aditi.agrawal5264/viz/SuperStore_Sales_Analysis_17222534748660/SuperStoreSalesAnalysisDashboard
+## 🧠 Learnings & Takeaways
+
+* Improved understanding of **data storytelling** using Tableau.
+* Hands-on experience with **dashboard design and interactivity**.
+* Learned to translate raw data into **business intelligence** and **decision-making insights**.
+
+---
+
+## 🧾 Author
+
+**👩‍💻 Aditi Agrawal**
+Data Analyst | Tableau Enthusiast | Storyteller with Data
+
+* 🔗 [LinkedIn] https://www.linkedin.com/in/aditi-agrawal-340158229/
+* 📧 [aditi@example.com](aditi.agrawal2409@gmail.com)
+
+---
